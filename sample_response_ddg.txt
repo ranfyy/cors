@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 12 May 2017 09:10:27 GMT
+Content-Type: image/png
+Content-Length: 18457
+Connection: keep-alive
+x-amz-id-2: cnKFfy9Hr51ubWME6OsPkUB7ji50hleLHPNLCPcyh+wXq66L0kBQfMW6BeeJCzUD6kZa7ZL3rQo=
+x-amz-request-id: 3121DFFDEFAA4379
+Last-Modified: Fri, 17 Feb 2017 19:39:11 GMT
+ETag: "71dd890fb4c36a53553165ede3662288"
+Cache-Control: max-age=2592000
+Accept-Ranges: bytes
+Expires: Sun, 11 Jun 2017 09:10:27 GMT
+Strict-Transport-Security: max-age=31536000
+X-DuckDuckGo-Locale: en_US

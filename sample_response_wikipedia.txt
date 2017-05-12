@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Date: Fri, 12 May 2017 09:12:55 GMT
+Content-Type: image/png
+Content-Length: 4413
+Connection: keep-alive
+X-Object-Meta-Sha1base36: epmi7nqyyczja9b918x21mp44jqxkjq
+Content-Disposition: inline;filename*=UTF-8''Queen_logo.svg.png
+Last-Modified: Wed, 16 Apr 2014 13:09:36 GMT
+Etag: 31673afc1dee0d9508763e8695c97c62
+X-Timestamp: 1397653775.73942
+X-Trans-Id: tx8c1a505f1f0d4aedb719a-0059149259
+X-Varnish: 504575734 489350987, 266379851 265270148, 68723008 1000171850
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Age: 59964
+X-Cache: cp1048 hit/2, cp3048 hit/1, cp3039 hit/26
+X-Cache-Status: hit
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Analytics: https=1;nocookies=1
+X-Client-IP: 62.138.201.60
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Age, Date, Content-Length, Content-Range, X-Content-Duration, X-Cache, X-Varnish
+Timing-Allow-Origin: *
+Accept-Ranges: bytes
